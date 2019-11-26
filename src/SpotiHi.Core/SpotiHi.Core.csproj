@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpotiHi.Abstractions.Core\SpotiHi.Abstractions.Core.csproj" />
+    <ProjectReference Include="..\SpotiHi.Abstractions.Data\SpotiHi.Abstractions.Data.csproj" />
+  </ItemGroup>
+
+</Project>
